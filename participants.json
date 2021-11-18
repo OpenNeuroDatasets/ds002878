@@ -12,7 +12,7 @@
     },
     "group": {
         "Description": "membership of participant",
-        "Levels":{
+        "Levels": {
             "soccer": "actively playing soccer for at least 10 years "
         }
     },
